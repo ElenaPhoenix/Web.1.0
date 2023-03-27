@@ -77,3 +77,29 @@ https://disk.yandex.ru/d/dNcHjZs3c96ypw
 
 Сайт-учебник по изучению javascript: 
 https://learn.javascript.ru/
+
+
+
+
+MySQL https://onecompiler.com/mysql
+W3Schools online PHP editor https://www.w3schools.com/php/phptryit.asp?filename=tryphp_compiler
+Интерактивные онлайн-курсы HTML Academy https://htmlacademy.ru/blog/php/mysql
+Бесплатный веб-хостинг для сайта - Beget https://beget.com/ru/hosting/free
+PHP: Многомерные массивы https://puzzleweb.ru/php/22_arrays5.php
+Команда IS NOT NULL http://old.code.mu/sql/is-not-null.html
+
+
+https://paiza.io/en/projects/new онлайн php
+https://fontawesome.com/v4/icons/
+SQL:https://www.youtube.com/watch?v=yOkj-PbCPQ8&list=PLDywto_IU4_4RU0sKfID6OY-np6uGmhlf
+https://www.youtube.com/watch?v=HVQNxdI6fqY
+https://stepik.org/course/63054/syllabus
+
+php:1 - https://www.youtube.com/watch?v=9ThSwYXk23c
+2 - https://www.youtube.com/watch?v=J9LjR6q1oLk
+3 - https://www.youtube.com/watch?v=g2FJQSrTXy4
+4 - https://www.youtube.com/watch?v=UnNJfDXCJTs
+5 - https://www.youtube.com/watch?v=_iG2ruOQz6E
+6 - https://www.youtube.com/watch?v=8lxQdEHlmbU8
+7 - https://www.youtube.com/watch?v=81XWeDLzeyQ
+8 - https://www.youtube.com/watch?v=5kMfx8bbhb8
