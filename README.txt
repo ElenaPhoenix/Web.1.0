@@ -1,3 +1,5 @@
+ctrl+d - выбирает такой же выделенный элемент
+
 https://docs.emmet.io/
 https://html5css.ru/tags/default.php
 https://bootstrap-4.ru/docs/5.2/getting-started/introduction/
@@ -60,4 +62,18 @@ https://marketplace.visualstudio.com/items?itemName=Umoxfo.vscode-w3cvalidation
 http://foxtools.ru/Unicode
 
 
-ctrl+d - выбирает такой же выделенный элемент
+Полный курс JS-базовый:
+1 - https://youtu.be/MbRmNGKXVOg
+2 - https://youtu.be/dUlEIwEDkV4
+3 - https://youtu.be/7qpbKy9XS48
+4 - https://youtu.be/Su9Gml6xUUU
+5 - https://youtu.be/lXJH1l9s214
+6 - https://youtu.be/qdyJkc-BjQA
+7 - https://youtu.be/fGTG-mrGpFY
+8 - https://youtu.be/lXbF_Jta6vQ
+
+все ДЗ с решениями и видео-разборами тут: 
+https://disk.yandex.ru/d/dNcHjZs3c96ypw
+
+Сайт-учебник по изучению javascript: 
+https://learn.javascript.ru/
